@@ -16,7 +16,6 @@ This project provides a solution for the Traveling Salesman Problem (TSP) using 
 ### Running the User Interface
 
 To run the user interface, execute the `tsp_ui.py` file. This interface allows the user to configure GA parameters and view the evolution of the TSP solution.
-![Running the User Interface](https://drive.google.com/file/d/1ayACGZ171xvMpQK9SVmKmdV23PVlWD28/view?usp=drive_link) 
 
 ### Source Code Structure
 
