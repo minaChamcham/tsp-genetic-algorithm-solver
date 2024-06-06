@@ -1,6 +1,6 @@
 # TSP Solver with Genetic Algorithm
 
-This project provides a solution for the Traveling Salesman Problem (TSP) using a Genetic Algorithm (GA). The project consists of three main source code files:
+This project provides a solution for the Traveling Salesman Problem (TSP) using Genetic Algorithm (GA). The project consists of three main source code files:
 
 1. `tsp_ga.py`: Contains classes for implementing GA for TSP.
 2. `tsp_ui.py`: Provides a user interface for interacting with the algorithm.
