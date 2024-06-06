@@ -7,9 +7,6 @@ This project provides a solution for the Traveling Salesman Problem (TSP) using 
 3. `tsp_test.py`: Conducts tests to evaluate the performance of the algorithm.
 
 ## Requirements
-
-To run this project, you need to install the following Python libraries:
-
 - numpy
 - matplotlib
 - PyQt5
